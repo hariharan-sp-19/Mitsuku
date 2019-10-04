@@ -1,0 +1,14 @@
+{
+  "intents":[
+							{
+            "intent": "askbot",
+            "slots": [
+                {
+                    "name": "ques",
+                    "type": "AMAZON.LITERAL"
+                }
+            ]
+                }  
+  ]
+  
+}
